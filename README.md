@@ -1,129 +1,136 @@
-<h1 align="center">
-Hey 👋 I'm PK
-</h1>
+```text
+████████████████████████████████████████
 
-<h3 align="center">
-Building AI, one project at a time.
-</h3>
+BOOTING...
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Building+AI+Agents;Machine+Learning+Enthusiast;Backend+Developer;Always+Learning+🚀"/>
-</p>
+Loading profile...
+█████████████████████ 100%
+
+> USER
+PK (AX1S)
+
+> STATUS
+ONLINE
+
+> ROLE
+AI Builder
+
+> SPECIALIZATION
+Artificial Intelligence
+Machine Learning
+Automation
+Backend Systems
+
+> CURRENT OBJECTIVE
+Building useful AI applications.
+
+████████████████████████████████████████
+```
+
+# 👋 Welcome.
+
+I like building things that think.
+
+Sometimes they work.
+
+Sometimes they break.
+
+Both are fun.
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Loading Projects...
 
-```python
-class PK:
+```text
+[██████████] AXIS
 
-    alias = "AX1S"
+Offline AI Digital Forensics Platform
 
-    interests = [
-        "AI Agents",
-        "Machine Learning",
-        "LLMs",
-        "Automation",
-        "Backend Development"
-    ]
+Status:
+ACTIVE
+```
 
-    currently_learning = [
-        "Deployable AI",
-        "System Design",
-        "DSA"
-    ]
+```text
+[██████████] WhistleUp
 
-    motto = "Build. Learn. Improve."
+Sports Community Platform
+
+Status:
+Prototype
+```
+
+```text
+[██████████] Student Performance Analyzer
+
+AI Analytics Platform
+
+Status:
+Building
+```
+
+```text
+[██████████] SkillSync
+
+Learning Recommendation Platform
+
+Status:
+Building
 ```
 
 ---
 
-## 🚀 Current Focus
+## ⚙️ Installing Tech Stack...
 
-- 🤖 AI Agents
-- 🧠 LLM Applications
-- ⚡ FastAPI
-- 📊 Machine Learning
-- 🚀 Building real-world AI products
+```text
+Python            ████████████████
 
----
+FastAPI           ████████████
 
-## 🛠 Tech Stack
+Machine Learning  ██████████
 
-### Languages
+LLMs              █████████
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c"/>
-</p>
+Automation        ██████████
 
-### AI
+Docker            ████████
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
+Git               ███████████
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,postman"/>
-</p>
+SQL               ███████████
+```
 
 ---
 
-# 🚀 Featured Projects
+## 📊 System Analytics
 
-🧠 AXIS
-
-AI-powered Digital Forensics Platform
+(GitHub Stats)
 
 ---
 
-🎮 WhistleUp
+## 🌎 Network
 
-Connecting players, coaches & communities.
+📧
 
----
+apk050406@gmail.com
 
-📊 Student Performance Analyzer
+🐙
 
-AI-powered insights for teachers.
+GitHub
 
----
+💼
 
-💡 SkillSync
+LinkedIn
 
-Helping students discover opportunities.
+🟠
 
----
-
-# 📈 GitHub Stats
-
-(Stats Here)
+LeetCode
 
 ---
 
-# 🌐 Connect
+```text
+Process Complete.
 
-📧 apk050406@gmail.com
+Thanks for stopping by.
 
-💼 LinkedIn
-
-🐙 GitHub
-
-🟠 LeetCode
-
----
-
-> *"The best way to learn is to build."*
+See you in the commits.
+```
