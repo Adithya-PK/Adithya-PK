@@ -1,136 +1,25 @@
-```text
-████████████████████████████████████████
+<div align="center">
 
-BOOTING...
+<img src="assets/matrix-rain.gif" width="100%" alt="Matrix-style binary animation">
 
-Loading profile...
-█████████████████████ 100%
+# Hi, I'm Adithya P K
 
-> USER
-PK (AX1S)
+</div>
 
-> STATUS
-ONLINE
+i build stuff with code, break it, fix it, then write about something completely unrelated on Substack.
 
-> ROLE
-AI Builder
+currently somewhere between AI, ML, backend, and a concerning number of unfinished ideas.
 
-> SPECIALIZATION
-Artificial Intelligence
-Machine Learning
-Automation
-Backend Systems
+basically just figuring things out as i go.
 
-> CURRENT OBJECTIVE
-Building useful AI applications.
+<br>
 
-████████████████████████████████████████
-```
+<div align="center">
 
-# 👋 Welcome.
+[GitHub](https://github.com/Adithya-PK) ·
+[LinkedIn](https://www.linkedin.com/in/adithya-p-k/) ·
+[LeetCode](https://leetcode.com/u/AdithyaPK/) ·
+[Substack](https://yapology01.substack.com/) ·
+[Email](mailto:apk050406@gmail.com)
 
-I like building things that think.
-
-Sometimes they work.
-
-Sometimes they break.
-
-Both are fun.
-
----
-
-## ⚡ Loading Projects...
-
-```text
-[██████████] AXIS
-
-Offline AI Digital Forensics Platform
-
-Status:
-ACTIVE
-```
-
-```text
-[██████████] WhistleUp
-
-Sports Community Platform
-
-Status:
-Prototype
-```
-
-```text
-[██████████] Student Performance Analyzer
-
-AI Analytics Platform
-
-Status:
-Building
-```
-
-```text
-[██████████] SkillSync
-
-Learning Recommendation Platform
-
-Status:
-Building
-```
-
----
-
-## ⚙️ Installing Tech Stack...
-
-```text
-Python            ████████████████
-
-FastAPI           ████████████
-
-Machine Learning  ██████████
-
-LLMs              █████████
-
-Automation        ██████████
-
-Docker            ████████
-
-Git               ███████████
-
-SQL               ███████████
-```
-
----
-
-## 📊 System Analytics
-
-(GitHub Stats)
-
----
-
-## 🌎 Network
-
-📧
-
-apk050406@gmail.com
-
-🐙
-
-GitHub
-
-💼
-
-LinkedIn
-
-🟠
-
-LeetCode
-
----
-
-```text
-Process Complete.
-
-Thanks for stopping by.
-
-See you in the commits.
-```
+</div>
