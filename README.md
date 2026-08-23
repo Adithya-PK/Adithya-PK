@@ -4,6 +4,7 @@
 
 </div>
 
+
 i build things, mostly because i get a little too invested in random ideas.
 
 currently somewhere between AI, ML, and backend.
