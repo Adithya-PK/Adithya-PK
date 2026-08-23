@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/matrix-rain.gif" width="100%" alt="Matrix-style binary animation">
-
-# Hi, I'm Adithya P K
+[GIF / banner goes here]
 
 </div>
 
@@ -16,10 +14,6 @@ basically just figuring things out as i go.
 
 <div align="center">
 
-[GitHub](https://github.com/Adithya-PK) ·
-[LinkedIn](https://www.linkedin.com/in/adithya-p-k/) ·
-[LeetCode](https://leetcode.com/u/AdithyaPK/) ·
-[Substack](https://yapology01.substack.com/) ·
-[Email](mailto:apk050406@gmail.com)
+[GitHub] · [LinkedIn] · [LeetCode] · [Substack] · [Email]
 
 </div>
