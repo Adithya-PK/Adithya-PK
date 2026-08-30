@@ -16,6 +16,6 @@ these days, it's either rank push or git push.
 
 <div align="center" style="font-size:0;">
 
-<a href="https://www.linkedin.com/in/adithya-p-k/"><img src="assets/linkedin-badge.svg" width="151" height="28" alt="LinkedIn"></a><a href="https://leetcode.com/u/AdithyaPK/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" width="111" height="28" alt="LeetCode"></a><a href="https://yapology01.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" width="115" height="28" alt="Substack"></a><a href="mailto:adithya4pk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="86" height="28" alt="Email"></a>
+<a href="https://www.linkedin.com/in/adithya-p-k/"><img src="assets/linkedin-badge.svg" height="28" alt="LinkedIn"></a><a href="https://leetcode.com/u/AdithyaPK/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28" alt="LeetCode"></a><a href="https://yapology01.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" height="28" alt="Substack"></a><a href="mailto:adithya4pk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"></a>
 
 </div>
